@@ -120,6 +120,7 @@ M.lspconfig_to_package = {
     ["nextls"] = "nextls",
     ["nickel_ls"] = "nickel-lang-lsp",
     ["nginx_language_server"] = "nginx-language-server",
+    ["nextflow_ls"] = "nextflow-language-server",
     ["nil_ls"] = "nil",
     ["nim_langserver"] = "nimlangserver",
     ["nimls"] = "nimlsp",
